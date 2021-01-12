@@ -1,0 +1,31 @@
+.panda-btn{
+    background: #FFC220;
+}
+.panda-card{
+    border: 0;
+}
+.panda-card-footer{
+    border: 0;
+    background: #fff;
+}
+.panda-slider-bg{
+    background: #FEEAE9;
+}
+.touch-area-bg{
+    background: #feeae9;
+}
+.round-border-radius{
+    border-radius: 1em;
+}
+.img-small{
+    width: 100px;
+}
+.bg-orchid{
+    background: orchid;
+}
+.bg-orange{
+    background: orange;
+}
+.bg-blue{
+    background: #009867;
+}
